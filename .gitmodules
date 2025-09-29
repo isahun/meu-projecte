@@ -1,0 +1,3 @@
+[submodule "repositoryTemplate"]
+	path = repositoryTemplate
+	url = https://github.com/isahun/meu-projecte
